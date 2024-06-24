@@ -9,6 +9,7 @@ lerna-debug.log*
 
 backend
 frontend
+frontend/react
 node_modules
 dist
 dist-ssr
